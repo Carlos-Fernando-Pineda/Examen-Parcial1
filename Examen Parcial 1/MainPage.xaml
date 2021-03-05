@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Examen_Parcial_1.MainPage"
+             Visual="Material">
+               
+
+    <StackLayout VerticalOptions="Center"
+                 HorizontalOptions="Center"
+                 WidthRequest="250">
+        <Label Text="Piensa en un número! Voy a Adivinarlo!"
+               FontAttributes="Bold"
+               FontSize="40"
+               HorizontalTextAlignment="Center"
+               TextColor="#36237A"/>
+        <Label Text="Multiplica tu número por 2, luego súmale un 8 y para terminar multiplícalo por 5 y anota tu resultado"
+               FontAttributes="Bold"
+               FontSize="15"
+               HorizontalTextAlignment="Center"
+               TextColor="Black"/>
+        <Entry Placeholder="Resultado" x:Name="Numero"
+               Keyboard="Numeric"/>
+        <Entry Placeholder="Número Original" x:Name="Original"
+               IsEnabled="False"/>
+        <Button Text="Calcular" Clicked="Button_Clicked"
+                BackgroundColor="DarkMagenta"/>
+    </StackLayout>
+    
+</ContentPage>

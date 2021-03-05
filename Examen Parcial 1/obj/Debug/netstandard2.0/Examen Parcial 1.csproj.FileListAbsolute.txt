@@ -1,0 +1,14 @@
+C:\Users\carlo\source\repos\Examen Parcial 1\Examen Parcial 1\Examen Parcial 1\obj\Debug\netstandard2.0\Examen Parcial 1.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\Examen Parcial 1\Examen Parcial 1\Examen Parcial 1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\carlo\source\repos\Examen Parcial 1\Examen Parcial 1\Examen Parcial 1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\carlo\source\repos\Examen Parcial 1\Examen Parcial 1\Examen Parcial 1\obj\Debug\netstandard2.0\Examen Parcial 1.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\Examen Parcial 1\Examen Parcial 1\Examen Parcial 1\obj\Debug\netstandard2.0\Examen Parcial 1.AssemblyInfo.cs
+C:\Users\carlo\source\repos\Examen Parcial 1\Examen Parcial 1\Examen Parcial 1\obj\Debug\netstandard2.0\Examen Parcial 1.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\Examen Parcial 1\Examen Parcial 1\Examen Parcial 1\bin\Debug\netstandard2.0\Examen Parcial 1.deps.json
+C:\Users\carlo\source\repos\Examen Parcial 1\Examen Parcial 1\Examen Parcial 1\bin\Debug\netstandard2.0\Examen Parcial 1.dll
+C:\Users\carlo\source\repos\Examen Parcial 1\Examen Parcial 1\Examen Parcial 1\bin\Debug\netstandard2.0\ref\Examen Parcial 1.dll
+C:\Users\carlo\source\repos\Examen Parcial 1\Examen Parcial 1\Examen Parcial 1\bin\Debug\netstandard2.0\Examen Parcial 1.pdb
+C:\Users\carlo\source\repos\Examen Parcial 1\Examen Parcial 1\Examen Parcial 1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\carlo\source\repos\Examen Parcial 1\Examen Parcial 1\Examen Parcial 1\obj\Debug\netstandard2.0\Examen Parcial 1.dll
+C:\Users\carlo\source\repos\Examen Parcial 1\Examen Parcial 1\Examen Parcial 1\obj\Debug\netstandard2.0\ref\Examen Parcial 1.dll
+C:\Users\carlo\source\repos\Examen Parcial 1\Examen Parcial 1\Examen Parcial 1\obj\Debug\netstandard2.0\Examen Parcial 1.pdb
